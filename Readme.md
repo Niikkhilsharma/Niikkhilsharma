@@ -5,7 +5,7 @@ FullStack Web Developer
 -----------------------
 
 I am Nikhil Sharma, a seasoned MERN (MongoDB, Express.js, React.js, Node.js) Developer with a distinguished two-year track record in shaping digital excellence. My expertise extends to the meticulous refinement of projects, such as the comprehensive redesign of Smelko's website and the development of a sophisticated delivery app reminiscent of Swiggy.
-In my role as a FullStack Developer at DotAgent, I architected seamless tech solutions. This included the integration of authentication using Supabase, meticulous data management, and the implementation of the cutting-edge ResumeGPT feature to elevate user experiences.
+In my role as a FullStack Developer at DotAgent, I architected seamless tech solutions. This included the integration of authentication using Supabase, meticulous daa management, and the implementation of the cutting-edge ResumeGPT feature to elevate user experiences.
 
 * 🖥️  See my portfolio at [https://niikkhilsharma.netlify.app/](http://niikkhilsharma.netlify.app/)
 * ✉️  You can contact me at [niikkhilsharma@gmail.com](mailto:niikkhilsharma@gmail.com)
