@@ -12,7 +12,7 @@ In my role as a FullStack Developer at DotAgent, I architected seamless tech sol
 * 🚀  I'm currently working on [Chatbot trained on famous framework documentations.](http://github.com/niikkhilsharma/chat-docs-library)
 * 🧠  I'm learning Devops
 * 🤝  I'm open to collaborating on MERN Stack projects.
-* ⚡  I'm secretly Spiderman... but don't tell anyone 
+* ⚡  I'm secretly Spiderman... but don't tell anyone 😎
 
 ## Skills
 
